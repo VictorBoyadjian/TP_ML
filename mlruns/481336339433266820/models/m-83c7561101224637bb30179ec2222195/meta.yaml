@@ -1,0 +1,10 @@
+artifact_location: /Users/victorboyadjian/Documents/dev/TP_ML/notebooks/../mlruns/481336339433266820/models/m-83c7561101224637bb30179ec2222195/artifacts
+creation_timestamp: 1780849600360
+experiment_id: '481336339433266820'
+last_updated_timestamp: 1780849603980
+model_id: m-83c7561101224637bb30179ec2222195
+model_type: null
+name: model
+source_run_id: e9eb13a85cb44eb0a4e15bc7694b474f
+status: 2
+status_message: null

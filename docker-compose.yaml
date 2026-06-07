@@ -1,0 +1,6 @@
+services:
+  sport-level-api:
+    container_name: sport-level-api
+    build: .
+    ports:
+      - "8000:8000"

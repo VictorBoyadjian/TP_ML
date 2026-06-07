@@ -1,0 +1,14 @@
+artifact_uri: /Users/victorboyadjian/Documents/dev/TP_ML/notebooks/../mlruns/481336339433266820/250b9126e4464f098a555df86f82d5cb/artifacts
+end_time: 1780853932948
+entry_point_name: ''
+experiment_id: '481336339433266820'
+lifecycle_stage: active
+run_id: 250b9126e4464f098a555df86f82d5cb
+run_name: Random Forest GridSearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780853929753
+status: 3
+tags: []
+user_id: victorboyadjian

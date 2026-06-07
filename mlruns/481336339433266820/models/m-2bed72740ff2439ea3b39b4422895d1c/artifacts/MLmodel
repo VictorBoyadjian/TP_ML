@@ -1,0 +1,22 @@
+artifact_path: /Users/victorboyadjian/Documents/dev/TP_ML/notebooks/../mlruns/481336339433266820/models/m-2bed72740ff2439ea3b39b4422895d1c/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.9.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.4
+model_id: m-2bed72740ff2439ea3b39b4422895d1c
+model_size_bytes: 1213842
+model_uuid: m-2bed72740ff2439ea3b39b4422895d1c
+prompts: null
+run_id: f1b37a5e48534c5db1ef186fc660eb66
+utc_time_created: '2026-06-07 16:27:48.236579'
